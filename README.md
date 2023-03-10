@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Binbin7331
+- 👋 Hi, I’m Lapis
 - 👀 I’m interested in data analytic
 - 🌱 I’m currently learning python,R,sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: lapis.srimanon@gmail.com
 
 <!---
 Binbin7331/Binbin7331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
